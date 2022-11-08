@@ -1,0 +1,621 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{avise2009retrospectandprospect}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b20c10d7db15f45259b4cec9f9e72a5b}{%
+           family={Avise},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{b20c10d7db15f45259b4cec9f9e72a5b}
+      \strng{fullhash}{b20c10d7db15f45259b4cec9f9e72a5b}
+      \strng{bibnamehash}{b20c10d7db15f45259b4cec9f9e72a5b}
+      \strng{authorbibnamehash}{b20c10d7db15f45259b4cec9f9e72a5b}
+      \strng{authornamehash}{b20c10d7db15f45259b4cec9f9e72a5b}
+      \strng{authorfullhash}{b20c10d7db15f45259b4cec9f9e72a5b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of biogeography}
+      \field{number}{1}
+      \field{title}{Phylogeography: retrospect and prospect}
+      \field{volume}{36}
+      \field{year}{2009}
+      \field{pages}{3\bibrangedash 15}
+      \range{pages}{13}
+    \endentry
+    \entry{avise2000phylogeography}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=b20c10d7db15f45259b4cec9f9e72a5b}{%
+           family={Avise},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard university press}%
+      }
+      \strng{namehash}{0fdcd0b9219e1fdbffd96ad47fd59065}
+      \strng{fullhash}{0fdcd0b9219e1fdbffd96ad47fd59065}
+      \strng{bibnamehash}{0fdcd0b9219e1fdbffd96ad47fd59065}
+      \strng{authorbibnamehash}{0fdcd0b9219e1fdbffd96ad47fd59065}
+      \strng{authornamehash}{0fdcd0b9219e1fdbffd96ad47fd59065}
+      \strng{authorfullhash}{0fdcd0b9219e1fdbffd96ad47fd59065}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phylogeography: the history and formation of species}
+      \field{year}{2000}
+    \endentry
+    \entry{avise1987intraspecific}{article}{}
+      \name{author}{8}{ul=1}{%
+        {{hash=b20c10d7db15f45259b4cec9f9e72a5b}{%
+           family={Avise},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8be34509f2166b2081058cb45208c4f1}{%
+           family={Arnold},
+           familyi={A\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a4cfa27d31cc3145807dca51f135a67e}{%
+           family={Ball},
+           familyi={B\bibinitperiod},
+           given={R\bibnamedelima Martin},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a714df9e5e041526b724609e30460b2f}{%
+           family={Bermingham},
+           familyi={B\bibinitperiod},
+           given={Eldredge},
+           giveni={E\bibinitperiod}}}%
+        {{hash=391b34d33c22c12bff13a7edd8b2b422}{%
+           family={Lamb},
+           familyi={L\bibinitperiod},
+           given={Trip},
+           giveni={T\bibinitperiod}}}%
+        {{hash=665a0d66fa918065dc4f886ebc5b60e8}{%
+           family={Neigel},
+           familyi={N\bibinitperiod},
+           given={Joseph\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0aa47093b5fdbe5af62c158f28c99b09}{%
+           family={Reeb},
+           familyi={R\bibinitperiod},
+           given={Carol\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=66e4d00303d7bc8a630ccfc00ec21ce7}{%
+           family={Saunders},
+           familyi={S\bibinitperiod},
+           given={Nancy\bibnamedelima C},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews 4139 El Camino Way, PO Box 10139, Palo Alto, CA 94303-0139, USA}%
+      }
+      \strng{namehash}{0fdcd0b9219e1fdbffd96ad47fd59065}
+      \strng{fullhash}{78918cc02a83794241f8d27564e38f1e}
+      \strng{bibnamehash}{78918cc02a83794241f8d27564e38f1e}
+      \strng{authorbibnamehash}{78918cc02a83794241f8d27564e38f1e}
+      \strng{authornamehash}{0fdcd0b9219e1fdbffd96ad47fd59065}
+      \strng{authorfullhash}{78918cc02a83794241f8d27564e38f1e}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual review of ecology and systematics}
+      \field{number}{1}
+      \field{title}{Intraspecific phylogeography: the mitochondrial DNA bridge between population genetics and systematics}
+      \field{volume}{18}
+      \field{year}{1987}
+      \field{pages}{489\bibrangedash 522}
+      \range{pages}{34}
+    \endentry
+    \entry{barrow2017CoastalComparison}{article}{}
+      \name{author}{5}{}{%
+        {{hash=fb7e4d1a6d1706713ea10c62aa87a9e2}{%
+           family={Barrow},
+           familyi={B\bibinitperiod},
+           given={Lisa\bibnamedelima N},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=41f733c6f10654d375f10a686a9a6f07}{%
+           family={Soto-Centeno},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={J\bibnamedelima Angel},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7dfa5c5bfdb22984eafb80dde15a9a5e}{%
+           family={Warwick},
+           familyi={W\bibinitperiod},
+           given={Alexa\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=24aa6c57ae7f9f754c186a0ac3bc1059}{%
+           family={Lemmon},
+           familyi={L\bibinitperiod},
+           given={Alan\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=71d9ee50a701d0223fff71600eeeb04b}{%
+           family={Moriarty\bibnamedelima Lemmon},
+           familyi={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{1e2d5f6a2c4a035830264409b2c4f00b}
+      \strng{fullhash}{a2a2c1025436c2e2c9aa91dc2b7cb30a}
+      \strng{bibnamehash}{a2a2c1025436c2e2c9aa91dc2b7cb30a}
+      \strng{authorbibnamehash}{a2a2c1025436c2e2c9aa91dc2b7cb30a}
+      \strng{authornamehash}{1e2d5f6a2c4a035830264409b2c4f00b}
+      \strng{authorfullhash}{a2a2c1025436c2e2c9aa91dc2b7cb30a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{An interesting study that looked at four frog species in the southeast to determine if Florida was a glacial refugia. They used whole mitochondrial genome sequences to estimate divergence time phylogenties, estimate the origin of each species, the direction of migration from that origin, and the rate of origin. They found that none of the species had origin in Florida, as would be predicted by the Florida refugia hypothesis, and some of the species lineage structure did not correspond with geography (e.g., Anaxyrus terrestris). However, Hyla cinerea and Hyla squirella both showed similar patters of diversity to Indigo snakes, at least based on what Krysko et al 2016 showed. Finally, they did use ecological niche modelling to show overlap in the current SDM and historic SDM.}
+      \field{journaltitle}{Journal of biogeography}
+      \field{number}{12}
+      \field{title}{Evaluating hypotheses of expansion from refugia through comparative phylogeography of south-eastern Coastal Plain amphibians}
+      \field{volume}{44}
+      \field{year}{2017}
+      \field{pages}{2692\bibrangedash 2705}
+      \range{pages}{14}
+    \endentry
+    \entry{degner2010pseudacrisphylogeography}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b7cf99b7ee8d4936e4728f54ba286b0a}{%
+           family={Degner},
+           familyi={D\bibinitperiod},
+           given={Jacob\bibnamedelima F},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=dbd106f2f6750e9d6a58ce019a639764}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Diana\bibnamedelima M},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=06eb73ec17361aa06dc836dbc843f701}{%
+           family={Hether},
+           familyi={H\bibinitperiod},
+           given={Tyler\bibnamedelima D},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=04fd4cef9652025c7d26f93c0d00e933}{%
+           family={Daza},
+           familyi={D\bibinitperiod},
+           given={Juan\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=07f31c92d84b3aa4aaaea7e930a6e95d}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Eric\bibnamedelima A},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{2d1dd1db24f3a8fce6e5af59e8ac7f5e}
+      \strng{fullhash}{d7aa073393f2715d44c713eb01f2a809}
+      \strng{bibnamehash}{d7aa073393f2715d44c713eb01f2a809}
+      \strng{authorbibnamehash}{d7aa073393f2715d44c713eb01f2a809}
+      \strng{authornamehash}{2d1dd1db24f3a8fce6e5af59e8ac7f5e}
+      \strng{authorfullhash}{d7aa073393f2715d44c713eb01f2a809}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{The authors used microsatellite data to look at genetic structure within Pseudacris ornata, and found that the phylogeographic breaks for the species did not coincide with typical regions. Instead, the attribued the low vagility of the species to the reduced gene flow between populations and the increases level of structure. There does still appear to be some evidence of an Atlantic vs Gulf grouping, but it is not nearly as pronounced as it is in other species.}
+      \field{journaltitle}{Molecular Ecology}
+      \field{number}{12}
+      \field{title}{Fat frogs, mobile genes: unexpected phylogeographic patterns for the ornate chorus frog (Pseudacris ornata)}
+      \field{volume}{19}
+      \field{year}{2010}
+      \field{pages}{2501\bibrangedash 2515}
+      \range{pages}{15}
+    \endentry
+    \entry{glenn2017adapterama}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=c46feaebf63eb4586d9ac05092ab2474}{%
+           family={Glenn},
+           familyi={G\bibinitperiod},
+           given={Travis\bibnamedelima C},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2c664983c94b12fd12b332d3e3d040a0}{%
+           family={Bayona-Vasquez},
+           familyi={B\bibinithyphendelim V\bibinitperiod},
+           given={Natalia\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=89155f713b25697d4a260a225f78d844}{%
+           family={Kieran},
+           familyi={K\bibinitperiod},
+           given={Troy\bibnamedelima J},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ae66fdca1c4a7d7db7e5b7f6b77c8919}{%
+           family={Pierson},
+           familyi={P\bibinitperiod},
+           given={Todd\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=00fb5bc95ff3cbdfcebee91bae68e099}{%
+           family={Hoffberg},
+           familyi={H\bibinitperiod},
+           given={Sandra\bibnamedelima L},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=f62094135f744e76264331da2c15f0f8}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2564b7506e671f401c2179290853e63a}{%
+           family={Bentley},
+           familyi={B\bibinitperiod},
+           given={Kerin\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=11469a4909ef119fe13c8361f5a0e9f6}{%
+           family={Finger},
+           familyi={F\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=2239a920fb7c9f9ffc5fff84a47f3448}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Patrick\bibnamedelima R},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1bdba7eea3fe62ebe4587e9403dd61b2}{%
+           family={Louha},
+           familyi={L\bibinitperiod},
+           given={Swarnali},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{710a63a9f0b673e5f78bd379bf505934}
+      \strng{fullhash}{13ebd667953a066192c659291fcb867e}
+      \strng{bibnamehash}{13ebd667953a066192c659291fcb867e}
+      \strng{authorbibnamehash}{13ebd667953a066192c659291fcb867e}
+      \strng{authornamehash}{710a63a9f0b673e5f78bd379bf505934}
+      \strng{authorfullhash}{13ebd667953a066192c659291fcb867e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv}
+      \field{title}{Adapterama III: Quadruple-indexed, triple-enzyme RADseq libraries for about \$~1 USD per Sample (3RAD)}
+      \field{year}{2017}
+    \endentry
+    \entry{jackson2010combined}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a62e8d9f0c48bbedf070be470d71d3c4}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={Nathan\bibnamedelima D},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9649e780dd5cffbea0c37877ca4c1713}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={Christopher\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{52a0b56503299f2d017787197d914771}
+      \strng{fullhash}{52a0b56503299f2d017787197d914771}
+      \strng{bibnamehash}{52a0b56503299f2d017787197d914771}
+      \strng{authorbibnamehash}{52a0b56503299f2d017787197d914771}
+      \strng{authornamehash}{52a0b56503299f2d017787197d914771}
+      \strng{authorfullhash}{52a0b56503299f2d017787197d914771}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This paper used a fairly extensive multi-locus dataset containing both mitochondrial and nuclear markers to test the role of plio-pleistocene glaciation on diversification within Scincella lateralis, but also to explore the role of smaller rivers on driving diversification. They found that an intermediate hypothesis combining both mechanisms best explained how diversity of scincella lateralis came to be. The oldest lineages and those with the highest amounts of genetic diversity were found in the southeast, and separated by seemingly small rivers.}
+      \field{journaltitle}{Evolution: International Journal of Organic Evolution}
+      \field{number}{2}
+      \field{title}{The combined effects of rivers and refugia generate extreme cryptic fragmentation within the common ground skink (Scincella lateralis)}
+      \field{volume}{64}
+      \field{year}{2010}
+      \field{pages}{409\bibrangedash 428}
+      \range{pages}{20}
+    \endentry
+    \entry{knowles2009statistical}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b6e66185737f4a794376377ce22d681a}{%
+           family={Knowles},
+           familyi={K\bibinitperiod},
+           given={L\bibnamedelima Lacey},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{b6e66185737f4a794376377ce22d681a}
+      \strng{fullhash}{b6e66185737f4a794376377ce22d681a}
+      \strng{bibnamehash}{b6e66185737f4a794376377ce22d681a}
+      \strng{authorbibnamehash}{b6e66185737f4a794376377ce22d681a}
+      \strng{authornamehash}{b6e66185737f4a794376377ce22d681a}
+      \strng{authorfullhash}{b6e66185737f4a794376377ce22d681a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Ecology, Evolution, and Systematics}
+      \field{title}{Statistical phylogeography}
+      \field{volume}{40}
+      \field{year}{2009}
+      \field{pages}{593\bibrangedash 612}
+      \range{pages}{20}
+    \endentry
+    \entry{krysko2016cryptic}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{hash=7d3407fd3c91c9db5677253d3bdeb108}{%
+           family={Krysko},
+           familyi={K\bibinitperiod},
+           given={Kenneth\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=70bb94b1c544f8b7bedb15264cec24ba}{%
+           family={Granatosky},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=72eec2b50ebedebea7881fc3f2a11e42}{%
+           family={Nunez},
+           familyi={N\bibinitperiod},
+           given={Leroy\bibnamedelima P},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=76bb77aac7a94ce8641de6add796d57f}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a057a00da8556144d58a2e16200383d}
+      \strng{fullhash}{1fe516cadefcc6f45409312151c8e183}
+      \strng{bibnamehash}{1fe516cadefcc6f45409312151c8e183}
+      \strng{authorbibnamehash}{1fe516cadefcc6f45409312151c8e183}
+      \strng{authornamehash}{5a057a00da8556144d58a2e16200383d}
+      \strng{authorfullhash}{1fe516cadefcc6f45409312151c8e183}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Builds on krysko et al 2016 about the pliocene diversify of \textit{couperi}. Formally describes the Gulf (\textit{Dryamrchon kolpbasileus} and Atlantic lineaages as separate species. Includes a morphological analysis that places the Mississippi populations in with the new Gulf Coast species. The PCAs do seem to pull apart by lineage, however, a DPCA maybe more appropriate and many geography doesn't seem to be well separating in the analysis.}
+      \field{journaltitle}{Zootaxa}
+      \field{number}{3}
+      \field{title}{A cryptic new species of Indigo Snake (genus \textit{Drymarchon}) from the Florida Platform of the United States}
+      \field{volume}{4138}
+      \field{year}{2016}
+      \field{pages}{549\bibrangedash 569}
+      \range{pages}{21}
+    \endentry
+    \entry{krysko2016pliocene}{article}{}
+      \name{author}{5}{ul=2}{%
+        {{hash=7d3407fd3c91c9db5677253d3bdeb108}{%
+           family={Krysko},
+           familyi={K\bibinitperiod},
+           given={Kenneth\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=18a9c5c9a5c65775953e3c6fbc09fcbc}{%
+           family={Nuñez},
+           familyi={N\bibinitperiod},
+           given={Leroy\bibnamedelima P},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=f6742eead1c2e1c3a8897488a3e05907}{%
+           family={Lippi},
+           familyi={L\bibinitperiod},
+           given={Catherine\bibnamedelima A},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=76bb77aac7a94ce8641de6add796d57f}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Daniel\bibnamedelima J},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=70bb94b1c544f8b7bedb15264cec24ba}{%
+           family={Granatosky},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima C},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{d85a3b682fb1c806d353454b80b19c2c}
+      \strng{fullhash}{117c5ff96ee616b9d265c63ad45d9e23}
+      \strng{bibnamehash}{117c5ff96ee616b9d265c63ad45d9e23}
+      \strng{authorbibnamehash}{117c5ff96ee616b9d265c63ad45d9e23}
+      \strng{authornamehash}{d85a3b682fb1c806d353454b80b19c2c}
+      \strng{authorfullhash}{117c5ff96ee616b9d265c63ad45d9e23}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This study used two mitochondrial markers and a single nuclear locus to estimate divergence times for \textit{Dyrmarchon couperi} from the sister species and for the timing of the split between the two clades. The two sister species split nearly 6mya and the two \textit{couperi} lineages split about 2 mya}
+      \field{journaltitle}{Molecular phylogenetics and evolution}
+      \field{title}{Pliocene--Pleistocene lineage diversifications in the Eastern Indigo Snake (\textit{Drymarchon couperi}) in the southeastern United States}
+      \field{volume}{98}
+      \field{year}{2016}
+      \field{pages}{111\bibrangedash 122}
+      \range{pages}{12}
+    \endentry
+    \entry{makowsky2010NerodiaerythrogasterPhylogeography}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6d91f7ca42fee29b277a533bb7eba252}{%
+           family={Makowsky},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f067d9146bd148d5b14715302e20bfa0}{%
+           family={Marshall\bibnamedelima Jr},
+           familyi={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=89a3da8bd825ed1e73d34c0abf90b7d1}{%
+           family={McVay},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8e2500db6f4ebadff41819dc3d179c89}{%
+           family={Chippindale},
+           familyi={C\bibinitperiod},
+           given={Paul\bibnamedelima T},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=fd15e6bbc6ac2f1ed1df7efa7a4d00dd}{%
+           family={Rissler},
+           familyi={R\bibinitperiod},
+           given={Leslie\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e83463c5cfd3839253d60f94f780166b}
+      \strng{fullhash}{238669cea36e4b3101330378a685360f}
+      \strng{bibnamehash}{238669cea36e4b3101330378a685360f}
+      \strng{authorbibnamehash}{238669cea36e4b3101330378a685360f}
+      \strng{authornamehash}{e83463c5cfd3839253d60f94f780166b}
+      \strng{authorfullhash}{238669cea36e4b3101330378a685360f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{The study used cytb, coI and cmos to look at phylogeographic patterns of Nerodia erythrogaster. They don't include any samples from Florida, however, the region between the Tombigbee and Apalachicola Rivers seems to be an intermediate zone for the central and eastern clades of the species. Although, there aren't any really strong correlations to geologic barriers for the whole of Nerodia erythrogaster.}
+      \field{journaltitle}{Molecular phylogenetics and evolution}
+      \field{number}{3}
+      \field{title}{Phylogeographic analysis and environmental niche modeling of the plain-bellied watersnake (Nerodia erythrogaster) reveals low levels of genetic and ecological differentiation}
+      \field{volume}{55}
+      \field{year}{2010}
+      \field{pages}{985\bibrangedash 995}
+      \range{pages}{11}
+    \endentry
+    \entry{newman2011LeopardFrogPhylogeography}{article}{}
+      \name{author}{2}{}{%
+        {{hash=154ff2975a3e30243c6a0c5f5f8e1eb1}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={Catherine\bibnamedelima E},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=fd15e6bbc6ac2f1ed1df7efa7a4d00dd}{%
+           family={Rissler},
+           familyi={R\bibinitperiod},
+           given={Leslie\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{d7d6593726b57597b656e0c454563901}
+      \strng{fullhash}{d7d6593726b57597b656e0c454563901}
+      \strng{bibnamehash}{d7d6593726b57597b656e0c454563901}
+      \strng{authorbibnamehash}{d7d6593726b57597b656e0c454563901}
+      \strng{authornamehash}{d7d6593726b57597b656e0c454563901}
+      \strng{authorfullhash}{d7d6593726b57597b656e0c454563901}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This paper used both mitochondrial and microsatellite markers to better understand how Rana sphenocephala speh. and Rana s. utricularia (northern thing) are distributed in the US. The nothern thing spans the Al./Appalachian Suture Zone, but the two sub-species were separated by the North Florida Suture. Mitochondrial data suggested that there is a lot of genetic diversity found in the coastal range of R. sphenocephala, and that the nother northern subspecies contained only three mitochondrial haplotypes. Further, the microsatellite data revealed the presence of a coastal haplotype group and a continental group.}
+      \field{journaltitle}{Molecular Ecology}
+      \field{number}{24}
+      \field{title}{Phylogeographic analyses of the southern leopard frog: the impact of geography and climate on the distribution of genetic lineages vs. subspecies}
+      \field{volume}{20}
+      \field{year}{2011}
+      \field{pages}{5295\bibrangedash 5312}
+      \range{pages}{18}
+    \endentry
+    \entry{osentoski1995intraspecific}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9d03df5a9b99ae68a46634a9335448e1}{%
+           family={Osentoski},
+           familyi={O\bibinitperiod},
+           given={MF},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a7a5d76742b8cd46e1a1c0bc8e1003d2}{%
+           family={Lamb},
+           familyi={L\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{ff56f4a97d2cdbe923c849fb2b7fa9b4}
+      \strng{fullhash}{ff56f4a97d2cdbe923c849fb2b7fa9b4}
+      \strng{bibnamehash}{ff56f4a97d2cdbe923c849fb2b7fa9b4}
+      \strng{authorbibnamehash}{ff56f4a97d2cdbe923c849fb2b7fa9b4}
+      \strng{authornamehash}{ff56f4a97d2cdbe923c849fb2b7fa9b4}
+      \strng{authorfullhash}{ff56f4a97d2cdbe923c849fb2b7fa9b4}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This study looked at the phylogeographic structure of Gopher tortoises and found three main clusterings based on RFLP data. There is an eastern and western clade, typical of many species, but also a mid-florida clade that appears to be restricted to the Tampa region. The authors postulate that the Brooksville and Lake Wales Ridges may have been a refugia for this mid-florida clade, and where it originally diversified from. The Lake Wales ridge runs through central Florida ends near Lake Placid where there is substantial genetic diversity for the EIS. The ridge was comprised of sand islands that may have acted as stepping stones for EIS to move from the larger late miocene islands to their current distributions.}
+      \field{journaltitle}{Molecular Ecology}
+      \field{number}{6}
+      \field{title}{Intraspecific phylogeography of the gopher tortoise, Gopherus polyphemus: RFLP analysis of amplified mtDNA segments}
+      \field{volume}{4}
+      \field{year}{1995}
+      \field{pages}{709\bibrangedash 718}
+      \range{pages}{10}
+    \endentry
+    \entry{rissler2016union}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fd15e6bbc6ac2f1ed1df7efa7a4d00dd}{%
+           family={Rissler},
+           familyi={R\bibinitperiod},
+           given={Leslie\bibnamedelima J},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Acad Sciences}%
+      }
+      \strng{namehash}{fd15e6bbc6ac2f1ed1df7efa7a4d00dd}
+      \strng{fullhash}{fd15e6bbc6ac2f1ed1df7efa7a4d00dd}
+      \strng{bibnamehash}{fd15e6bbc6ac2f1ed1df7efa7a4d00dd}
+      \strng{authorbibnamehash}{fd15e6bbc6ac2f1ed1df7efa7a4d00dd}
+      \strng{authornamehash}{fd15e6bbc6ac2f1ed1df7efa7a4d00dd}
+      \strng{authorfullhash}{fd15e6bbc6ac2f1ed1df7efa7a4d00dd}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{29}
+      \field{title}{Union of phylogeography and landscape genetics}
+      \field{volume}{113}
+      \field{year}{2016}
+      \field{pages}{8079\bibrangedash 8086}
+      \range{pages}{8}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
