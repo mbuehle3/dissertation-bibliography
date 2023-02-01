@@ -1,0 +1,203 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{barbosa2018IntegrativeConservationGenomics}{article}{}
+      \name{author}{6}{}{%
+        {{hash=c17c47dd0f8db17d5255cae324a827b0}{%
+           family={Barbosa},
+           familyi={B\bibinitperiod},
+           given={Soraia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5b0f095f01f8906b1f18c5feb37050cf}{%
+           family={Mestre},
+           familyi={M\bibinitperiod},
+           given={Frederico},
+           giveni={F\bibinitperiod}}}%
+        {{hash=2f09b5dea7644b7a4b420dc8f63c9476}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Thomas\bibnamedelima A},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d8ad06905864e59e9dfcd470f73784e3}{%
+           family={Paupério},
+           familyi={P\bibinitperiod},
+           given={Joana},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9b32fcfe01dacce87219101664db833a}{%
+           family={Alves},
+           familyi={A\bibinitperiod},
+           given={Paulo\bibnamedelima C},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=45e91ece6e824b1307c70bd1e6c4217d}{%
+           family={Searle},
+           familyi={S\bibinitperiod},
+           given={Jeremy\bibnamedelima B},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{2c4f35ce1ceeb7c4d81d4af46f087b48}
+      \strng{fullhash}{21442f32d6ecdd6186a378e36bf5fbd8}
+      \strng{bibnamehash}{21442f32d6ecdd6186a378e36bf5fbd8}
+      \strng{authorbibnamehash}{21442f32d6ecdd6186a378e36bf5fbd8}
+      \strng{authornamehash}{2c4f35ce1ceeb7c4d81d4af46f087b48}
+      \strng{authorfullhash}{21442f32d6ecdd6186a378e36bf5fbd8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{\textbf{USE THIS PAPER TO SET UP THE CONSERVASTION UNITS FOR EIS}. This paper deliniates and proposes a unit schema for defining populations for conservation. First is the Conservation Unit (CU) or the Evolutionary Significant Unit. This designation lumps populations based on their genetic composistion and should be seperated, ideally, by phylogeographic history (e.g., the GA and FL EIS populations). These conservation units would be delimited using all loci in a genomic dataset.ESUs can be subdivided further into management units and adaptive units. Management units are the short term currency of conservation, clustering populations based on their neutral genetic diversity. This delimits populations that are genetically unique from one another. Adaptive units are identified using potential adaptive loci. I could use outlier methods to identify putatively adaptive loci in the RAD data. Reseq data would be a better method for delimiting the AUs. In small populations, genetic drift may inflate the number of detected MUs, however, in large populations MUs may be falesly suppressed due to lingering ancestral alleles. This paper outlines a way to idenify functional corridors for species acounting for gene flow between populations, as well as, habitat. Essentially, combine environmentla and genetic connectivities to find overlaps in where gene flow is occuring and how it correlates wtih suitable habitats.}
+      \field{journaltitle}{Molecular Ecology}
+      \field{number}{17}
+      \field{title}{Integrative approaches to guide conservation decisions: using genomics to define conservation units and functional corridors}
+      \field{volume}{27}
+      \field{year}{2018}
+      \field{pages}{3452\bibrangedash 3465}
+      \range{pages}{14}
+    \endentry
+    \entry{mussmann2019ba3snps}{article}{}
+      \name{author}{4}{}{%
+        {{hash=545c8ef924ff0d2e198ace0e4f3590b8}{%
+           family={Mussmann},
+           familyi={M\bibinitperiod},
+           given={Steven\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0d3d3cd9e89da1699119bc924a3d6d69}{%
+           family={Douglas},
+           familyi={D\bibinitperiod},
+           given={Marlis\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=6aa484d1986be145c1754d2071568798}{%
+           family={Chafin},
+           familyi={C\bibinitperiod},
+           given={Tyler\bibnamedelima K},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=7cb73725a168111d6d2471c4de681122}{%
+           family={Douglas},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{1e449c78aabf1c0ac9d4bf6cd135f2a6}
+      \strng{fullhash}{0054f738ed4458f05c43ce894a9d9cc9}
+      \strng{bibnamehash}{0054f738ed4458f05c43ce894a9d9cc9}
+      \strng{authorbibnamehash}{0054f738ed4458f05c43ce894a9d9cc9}
+      \strng{authornamehash}{1e449c78aabf1c0ac9d4bf6cd135f2a6}
+      \strng{authorfullhash}{0054f738ed4458f05c43ce894a9d9cc9}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methods in Ecology and Evolution}
+      \field{number}{10}
+      \field{title}{BA3-SNPs: Contemporary migration reconfigured in BayesAss for next-generation sequence data}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{1808\bibrangedash 1813}
+      \range{pages}{6}
+    \endentry
+    \entry{petkova2016EEMSDescription}{article}{}
+      \name{author}{3}{}{%
+        {{hash=475d6f8df348f92fac1165dfa2dd67f1}{%
+           family={Petkova},
+           familyi={P\bibinitperiod},
+           given={Desislava},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a7927a8824a0f712ecfe132cf49cb14c}{%
+           family={Novembre},
+           familyi={N\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b6392ab77144d0d73f3f35bd39da607c}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group US New York}%
+      }
+      \strng{namehash}{9fdf72561295529f459087271fa5aa13}
+      \strng{fullhash}{288e6e255d97b8257478c47c2a270b62}
+      \strng{bibnamehash}{288e6e255d97b8257478c47c2a270b62}
+      \strng{authorbibnamehash}{288e6e255d97b8257478c47c2a270b62}
+      \strng{authornamehash}{9fdf72561295529f459087271fa5aa13}
+      \strng{authorfullhash}{288e6e255d97b8257478c47c2a270b62}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This paper describes the progarm EEMS. EEMS is based on a stepping stone model and estimates the rate in which genetic simlarity decays between samples. This scheme has benefits over using PCAs or clusting methods because EEMS accounts for the geographic proximity of samples when comparing to genetic similarities. Although PCAs have been used to investigate the effects of IBD, these analyses have to be done \emph{posthoc}. Clustering methods are suceptible to k estimation deviation caused by sampling bias. EEMS is unable to detect gene flow directionality because the base model assumes symetric equal gene flow between popualtions. In the same vein that effective population size represents the idealized population size needed to maintain the levels of genetic diversity observed in a population, EEMS calucaltes effective migration rates that idealize the migration rate parameters under a stepping stone model that would produce the genetic decay or simlarity between the given samples. EEMS also calculates a effective diversity parameters within each deme that reflects the expected genetic dissimiarility between two individuals within a deme. This is somewhat analagous to expected heterozygosity within the deme. Demes with higher effective diversity are going to have higher levels of heteorzygosity. For the resistance grids, their size is arbitrary so multiple scales should be tried based on the sampling density.}
+      \field{journaltitle}{Nature genetics}
+      \field{number}{1}
+      \field{title}{Visualizing spatial population structure with estimated effective migration surfaces}
+      \field{volume}{48}
+      \field{year}{2016}
+      \field{pages}{94\bibrangedash 100}
+      \range{pages}{7}
+    \endentry
+    \entry{zimmerman2020empirical}{article}{}
+      \name{author}{3}{}{%
+        {{hash=eb7767fd9dd8a4c4356f01751d18b782}{%
+           family={Zimmerman},
+           familyi={Z\bibinitperiod},
+           given={Shawna\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7ac1323e2e9b49a81d30b707cbf3500d}{%
+           family={Aldridge},
+           familyi={A\bibinitperiod},
+           given={Cameron\bibnamedelima L},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=12d27b81ce6736bda4f534ef3496d3b7}{%
+           family={Oyler-McCance},
+           familyi={O\bibinithyphendelim M\bibinitperiod},
+           given={Sara\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a872468b2a31240e2092194c0819bf89}
+      \strng{fullhash}{720908ac09ac1d090dcb3c3304426ecf}
+      \strng{bibnamehash}{720908ac09ac1d090dcb3c3304426ecf}
+      \strng{authorbibnamehash}{720908ac09ac1d090dcb3c3304426ecf}
+      \strng{authornamehash}{a872468b2a31240e2092194c0819bf89}
+      \strng{authorfullhash}{720908ac09ac1d090dcb3c3304426ecf}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This paper identified the diffferences between SNP and microsatellite markers for estimating demographic parameters (Ho,He,Fis,AR) and population differentiation (fst, gst, jostD). Generally they found that the demographic parameters were correlated with each other except for Ho. Again found a high level of correlation between the population differentiation statistics, note that Fst and Gst are considered fixation indicies and JostD is considered an allelic differentiation metric. Gst estimates were higher in the microsatellites, however, the theoretical max heterozygosity for microsats is double that of SNPs, and given Gst is based on heterozygosity, it makes sense that this metric is higher. Finally, the authors found that there was similar ability of SNPs from a smaller sub-set of individuals to cluster genetically similar samples, compared to a full microsatellite dataset. There should be some caution used when placing to much emphasis on the ESUs or conservation units. Adaptive variation may be adaptive for a specific contemporary environment, but focusing on purifying the genetics of ESUs may lead to loss of future adaptive potential. There is the potential to consider the clustering of populations based on the presence of putatively adpative alleles.}
+      \field{journaltitle}{BMC genomics}
+      \field{title}{An empirical comparison of population genetic analyses using microsatellite and SNP data for a species of conservation concern}
+      \field{volume}{21}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 16}
+      \range{pages}{16}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
