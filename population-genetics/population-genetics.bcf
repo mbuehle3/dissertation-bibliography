@@ -2356,19 +2356,11 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">dis-bib.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">popgen.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">zimmerman2020empirical</bcf:citekey>
-    <bcf:citekey order="2">petkova2016EEMSDescription</bcf:citekey>
-    <bcf:citekey order="3">mussmann2019ba3snps</bcf:citekey>
-    <bcf:citekey order="4">wilson2003BayesAss</bcf:citekey>
-    <bcf:citekey order="5">barbosa2018IntegrativeConservationGenomics</bcf:citekey>
-    <bcf:citekey order="6">zimmerman2020empirical</bcf:citekey>
-    <bcf:citekey order="7">petkova2016EEMSDescription</bcf:citekey>
-    <bcf:citekey order="8">mussmann2019ba3snps</bcf:citekey>
-    <bcf:citekey order="9">wilson2003BayesAss</bcf:citekey>
-    <bcf:citekey order="10">barbosa2018IntegrativeConservationGenomics</bcf:citekey>
+    <bcf:citekey order="1">williams1999high</bcf:citekey>
+    <bcf:citekey order="2">williams1999high</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

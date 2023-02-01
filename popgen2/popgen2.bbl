@@ -110,6 +110,7 @@
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{annotation}{This program is a modification of BayesAss3 allowing SNPs to be utilized for detection of isolated popualtions. \bae can be used to delimit management units based on the ability of population to maintain and grow in population size due to its demographic characterstics. It also calculates a dispersal parameter to identify the rate of immigration from the population. I need to check the \ba manual to see if some of the future directions they proposed have been addressed in more recent versions.}
       \field{journaltitle}{Methods in Ecology and Evolution}
       \field{number}{10}
       \field{title}{BA3-SNPs: Contemporary migration reconfigured in BayesAss for next-generation sequence data}
@@ -157,6 +158,41 @@
       \field{year}{2016}
       \field{pages}{94\bibrangedash 100}
       \range{pages}{7}
+    \endentry
+    \entry{wilson2003BayesAss}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3f357535ac58db992e9b59868da70a6e}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Gregory\bibnamedelima A},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d0f73a076027c0e635431cb2bdd1973d}{%
+           family={Rannala},
+           familyi={R\bibinitperiod},
+           given={Bruce},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{ac57b783941f3a7bee38c5ced94a5acc}
+      \strng{fullhash}{ac57b783941f3a7bee38c5ced94a5acc}
+      \strng{bibnamehash}{ac57b783941f3a7bee38c5ced94a5acc}
+      \strng{authorbibnamehash}{ac57b783941f3a7bee38c5ced94a5acc}
+      \strng{authornamehash}{ac57b783941f3a7bee38c5ced94a5acc}
+      \strng{authorfullhash}{ac57b783941f3a7bee38c5ced94a5acc}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{This is the base paper for \ba. There are several parameters that can be estimated using the MCMC including: migration rate (\emph{m}), allele frequencies, inbreeding coefficiants, the proportion of non-immigrant, first generation immigrants, and second generation immigrants within a population, and finally the probability that an individuals belongs to one of these classifications. Again, sampling is an imporatnt consideration, if the source population for migrants is not sampled then the program will not be able to accurately estimate the migration rates.}
+      \field{journaltitle}{Genetics}
+      \field{number}{3}
+      \field{title}{Bayesian inference of recent migration rates using multilocus genotypes}
+      \field{volume}{163}
+      \field{year}{2003}
+      \field{pages}{1177\bibrangedash 1191}
+      \range{pages}{15}
     \endentry
     \entry{zimmerman2020empirical}{article}{}
       \name{author}{3}{}{%

@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[1] Config.pm:310> INFO - Logfile is 'southeastern-phylogeography.blg'
+[55] biber:340> INFO - === Tue Jan 31, 2023, 14:08:27
+[65] Biber.pm:418> INFO - Reading 'southeastern-phylogeography.bcf'
+[113] Biber.pm:972> INFO - Found 15 citekeys in bib section 0
+[123] Biber.pm:4383> INFO - Processing section 0
+[130] Biber.pm:4574> INFO - Looking for bibtex file 'dis-bib.bib' for section 0
+[132] bibtex.pm:1713> INFO - LaTeX decoding ...
+[173] bibtex.pm:1518> INFO - Found BibTeX data source 'dis-bib.bib'
+[290] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[290] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[290] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[290] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[303] bbl.pm:654> INFO - Writing 'southeastern-phylogeography.bbl' with encoding 'UTF-8'
+[311] bbl.pm:757> INFO - Output to southeastern-phylogeography.bbl

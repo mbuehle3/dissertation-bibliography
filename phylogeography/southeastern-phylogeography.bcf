@@ -2359,16 +2359,36 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">dis-bib.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">zimmerman2020empirical</bcf:citekey>
-    <bcf:citekey order="2">petkova2016EEMSDescription</bcf:citekey>
-    <bcf:citekey order="3">mussmann2019ba3snps</bcf:citekey>
-    <bcf:citekey order="4">wilson2003BayesAss</bcf:citekey>
-    <bcf:citekey order="5">barbosa2018IntegrativeConservationGenomics</bcf:citekey>
-    <bcf:citekey order="6">zimmerman2020empirical</bcf:citekey>
-    <bcf:citekey order="7">petkova2016EEMSDescription</bcf:citekey>
-    <bcf:citekey order="8">mussmann2019ba3snps</bcf:citekey>
-    <bcf:citekey order="9">wilson2003BayesAss</bcf:citekey>
-    <bcf:citekey order="10">barbosa2018IntegrativeConservationGenomics</bcf:citekey>
+    <bcf:citekey order="1">avise1987intraspecific</bcf:citekey>
+    <bcf:citekey order="2">avise2000phylogeography</bcf:citekey>
+    <bcf:citekey order="3">avise2009retrospectandprospect</bcf:citekey>
+    <bcf:citekey order="4">knowles2009statistical</bcf:citekey>
+    <bcf:citekey order="5">rissler2016union</bcf:citekey>
+    <bcf:citekey order="6">barrow2017CoastalComparison</bcf:citekey>
+    <bcf:citekey order="7">degner2010pseudacrisphylogeography</bcf:citekey>
+    <bcf:citekey order="8">osentoski1995intraspecific</bcf:citekey>
+    <bcf:citekey order="9">makowsky2010NerodiaerythrogasterPhylogeography</bcf:citekey>
+    <bcf:citekey order="10">jackson2010combined</bcf:citekey>
+    <bcf:citekey order="11">newman2011LeopardFrogPhylogeography</bcf:citekey>
+    <bcf:citekey order="12">krysko2016pliocene</bcf:citekey>
+    <bcf:citekey order="13">krysko2016cryptic</bcf:citekey>
+    <bcf:citekey order="14">glenn2017adapterama</bcf:citekey>
+    <bcf:citekey order="15">zimmerman2020empirical</bcf:citekey>
+    <bcf:citekey order="16">avise1987intraspecific</bcf:citekey>
+    <bcf:citekey order="17">avise2000phylogeography</bcf:citekey>
+    <bcf:citekey order="18">avise2009retrospectandprospect</bcf:citekey>
+    <bcf:citekey order="19">knowles2009statistical</bcf:citekey>
+    <bcf:citekey order="20">rissler2016union</bcf:citekey>
+    <bcf:citekey order="21">barrow2017CoastalComparison</bcf:citekey>
+    <bcf:citekey order="22">degner2010pseudacrisphylogeography</bcf:citekey>
+    <bcf:citekey order="23">osentoski1995intraspecific</bcf:citekey>
+    <bcf:citekey order="24">makowsky2010NerodiaerythrogasterPhylogeography</bcf:citekey>
+    <bcf:citekey order="25">jackson2010combined</bcf:citekey>
+    <bcf:citekey order="26">newman2011LeopardFrogPhylogeography</bcf:citekey>
+    <bcf:citekey order="27">krysko2016pliocene</bcf:citekey>
+    <bcf:citekey order="28">krysko2016cryptic</bcf:citekey>
+    <bcf:citekey order="29">glenn2017adapterama</bcf:citekey>
+    <bcf:citekey order="30">zimmerman2020empirical</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
